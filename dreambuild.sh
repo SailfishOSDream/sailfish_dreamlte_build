@@ -1,1 +1,3 @@
 export WITH_DEXPREOPT=false
+
+echo "Set WITH_DEXPREOPT to $WITH_DEXPREOPT"
